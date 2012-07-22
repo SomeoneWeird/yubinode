@@ -39,9 +39,9 @@ exports.testOTP = function(otp, cb) {
 				var code = tmp2[1];
 
 				if(code=="OK") {
-					cb([1, results[code]])
+					cb([1, results[code], code])
 				} else {
-					cb([0, results[code]]);
+					cb([0, results[code], code]);
 				}
 
 			}

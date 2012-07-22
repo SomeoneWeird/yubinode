@@ -1,6 +1,6 @@
 {
   "name": "yubinode",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "YubiKey OTP testing for Node.JS",
   "main": "index.js",
   "scripts": {
