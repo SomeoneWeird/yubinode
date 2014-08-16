@@ -1,6 +1,9 @@
 yubinode
 ========
 
+WARNING: Not maintained, recommend using [Yub](https://github.com/glynnbird/yub) instead.
+
+
 YubiKey OTP testing for Node.JS
 
 ##Installation
